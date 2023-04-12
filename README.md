@@ -1,4 +1,4 @@
-"Guess my number" game - guess the secret number, between 1 and 20
+"Guess my number" game - guess the secret number, between 1 and 20.
 
 
 ![guess-my-number0](https://user-images.githubusercontent.com/125043957/220354566-3099de30-200c-400f-a054-153da8bfb794.png)
